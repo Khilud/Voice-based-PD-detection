@@ -5,7 +5,6 @@ This project applies machine learning techniques to detect Parkinson's Disease u
 
 The project includes data preprocessing, exploratory data analysis (EDA), feature correlation analysis, model training, and performance evaluation using multiple machine learning algorithms.
 
-Dataset
 The dataset consists of biomedical voice measurements collected from healthy individuals and Parkinson's patients.
 ## Dataset Source
 
